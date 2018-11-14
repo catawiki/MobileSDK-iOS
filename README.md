@@ -13,3 +13,9 @@ Please check our <a href="https://github.com/SelligentMarketingCloud/MobileSDK-i
 Use our <a href="https://github.com/SelligentMarketingCloud/MobileSDK-iOS/blob/master/Documentation/MobileSDK%20Reference.pdf" target="_blank">Reference manual</a> to quickly check all our available methods
 
 Download our <a href="https://github.com/SelligentMarketingCloud/MobileSDK-iOS/blob/master/Documentation/iOSSDKTemplate.zip" target="_blank">iOS example application</a> to see how our SDK needs to be implemented
+
+# MobileSDK-iOS Integration
+
+Using CocoaPods:
+add `pod 'SelligentMobileSDK', :git => 'git@github.com:SelligentMarketingCloud/MobileSDK-iOS.git'` to your main target in your Podfile.
+run `pod install`.
